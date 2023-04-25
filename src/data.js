@@ -1,0 +1,58 @@
+export const reviews = [
+  {
+    id: 1,
+    name: "Amitabh Bachchan",
+    job: "Actor",
+    image: "amitabh.jpg",
+    text: "Amitabh Bachchan is a legendary actor in Indian cinema, known for his roles in films like Sholay, Deewar, and Zanjeer. He has won numerous awards for his acting, including the National Film Award for Best Actor.",
+  },
+  {
+    id: 2,
+    name: "Ratan Tata",
+    job: "Businessman",
+    image: "ratan.jpeg",
+    text: "Ratan Tata is an Indian industrialist, philanthropist, and former chairman of Tata Sons. He is known for his contributions to the Indian economy and his support of various social causes.",
+  },
+  {
+    id: 3,
+    name: "Mary Kom",
+    job: "Boxer",
+    image: "mary.jpeg",
+    text: "Mary Kom is a professional boxer from India, who has won numerous medals at international competitions, including the Olympics. She is also a member of the Rajya Sabha, the upper house of the Indian Parliament.",
+  },
+  {
+    id: 4,
+    name: "Sania Mirza",
+    job: "Tennis player",
+    image: "sania.jpeg",
+    text: "Sania Mirza is a professional tennis player from India, who has won numerous doubles titles at the Grand Slam tournaments. She is also a former World No. 1 in doubles and has been awarded the Padma Shri, one of India's highest civilian awards.",
+  },
+  {
+    id: 5,
+    name: "Vikram Sarabhai",
+    job: "Physicist",
+    image: "vikram.jpeg",
+    text: "Vikram Sarabhai was an Indian physicist and astronomer who is widely regarded as the father of the Indian space program. He was instrumental in the creation of the Indian Space Research Organisation (ISRO) and was also a member of the Atomic Energy Commission.",
+  },
+  {
+    id: 6,
+    name: "Ravi Shankar",
+    job: "Musician",
+    image: "ravi.jpg",
+    text: "Ravi Shankar was an Indian musician and composer, known for his work in Indian classical music and for his collaborations with Western musicians like George Harrison of the Beatles. He was awarded the Bharat Ratna, India's highest civilian award, in 1999.",
+  },
+  {
+    id: 7,
+    name: "Kalpana Chawla",
+    job: "Astronaut",
+    image: "kalpana.jpeg",
+    text: "Kalpana Chawla was an Indian-American astronaut who was the first woman of Indian origin to go to space. She was a mission specialist on the space shuttle Columbia, which tragically disintegrated during re-entry in 2003.",
+  },
+  {
+    id: 8,
+    name: "APJ Abdul Kalam",
+    job: "Scientist",
+    image: "apj.webp",
+    text: "APJ Abdul Kalam was an Indian scientist and statesman who served as the President of India from 2002 to 2007. He was a renowned aerospace engineer and played a key role in India's civilian space program and military missile development. He was also known as the People's President and was awarded the Bharat Ratna in 1997.",
+  },
+];

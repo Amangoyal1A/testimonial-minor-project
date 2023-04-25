@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  text-align: center;
+  font-style: italic;
+  background-color: #61dafb;
+  
+}
